@@ -1,0 +1,118 @@
+.main-page {
+  background-color: #000000;
+  font-family: futura;
+}
+
+.navbar {
+background-color: #ffffff;
+  color: #888888;
+}
+
+.custom-text {
+  color: #7f9065;
+}
+
+.form-a {
+  float: right;
+}
+
+.custom-text:hover {
+  font-size: 20px;
+  color: #c4df9b;
+  transition: 300ms;
+}
+
+.first-section {
+  background-color: #000000;
+  padding: 140px 0px 100px;
+  background-image: url("img/delivery.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.second-section {
+  background-color: #000000;
+  padding: 140px 0px 100px;
+  background-image: url("img/wholefoodsfood.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.fade-bg {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.header-title {
+  color: #c4df9b;
+}
+
+.header-title-2 {
+  float: right;
+}
+
+.section-2 {
+  float: right;
+}
+
+.header-text {
+  color: #7f9065;
+}
+
+.info-section {
+  border-radius: 10px;
+}
+
+.formbutton {
+  color: #7f9065;
+  border: 1px solid #7f9065;
+  background-color: #ffffff;
+}
+
+
+.subtext {
+  color: #888888;
+  font-size: 10px;
+}
+
+.styled-image {
+  border-radius: 10px;
+}
+
+.custom-btn {
+  color: #7f9065;
+  border: 1px solid #7f9065;
+  background-color: #ffffff;
+}
+
+.button-link {
+  font-family: futura;
+  border-radius: 5px;
+  background-color: #7f9065;
+  color: #ffffff;
+}
+
+.more-info {
+  color: #ffffff;
+  background-color: #444444;
+}
+
+.partnership-logo:hover {
+  transform: scale(1.1);
+  transition: 300ms;
+}
+
+.custom-btn:hover {
+  color: #c4df9b;
+  border: 1px solid #c4df9b;
+  background-color: #444444;
+  transition: 300ms;
+}
+
+.button-link:hover {
+  color: #c4df9b;
+  border: 1px solid #c4df9b;
+  background-color: #444444;
+  transition: 300ms;
+}
